@@ -128,13 +128,3 @@ Same as `FirstName` requirements
 |-------|------------|
 | 0 | No |
 | 1 | Yes |
-
-## Deployment
-
-General idea is to deploy/host your script somewhere and tigger the request to the server. A decent amount of freemium services should be able to handle it:
-
-<ul>
-<li>Google Cloud Services</li>
-<li>Heroku</li>
-<li>Python Anywhere (only paid can handle http requests)</li>
-</ul>
