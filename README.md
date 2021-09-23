@@ -31,7 +31,7 @@ python3 -m venv env
 
 .\env\Scripts\Activate.ps1  # ONLY IF WINDOWS POWERSHELL
 # OR
-source env/bin/activate  # ONLY IF MAC
+source env/bin/activate  # ONLY IF MAC/UNIX
 ```
 
 ```bash
