@@ -41,7 +41,11 @@ pip install -r requirements.txt
 
 2. Fill out info for your users in `user_info.json` or whatever you want to name it. Just make sure to change the filename in `submit_health_screen.py`
 
-3. You should receive an email in your inbox denoting if you can access the building.
+3. Run script to submit form. You should receive an email in your inbox denoting if you can access the building.
+```bash
+python3 submit_health_screen.py
+```
+If you didn't receive an email **per person** then something went wrong!
 
 ## Form Fields
 
